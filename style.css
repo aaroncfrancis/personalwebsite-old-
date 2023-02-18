@@ -1,0 +1,127 @@
+
+  /* Body */
+  body {
+    background-color: #333;
+    color: #fff;
+    font-family: Arial, sans-serif;
+  }
+
+  /* Navigation */
+  .navbar {
+    background-color: #054950;
+  }
+
+  .navbar-nav {
+    color: #054950;
+  }
+
+  .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+  }
+
+  .navbar-nav .nav-link {
+    color: #fff;
+    margin-right: 1rem;
+  
+  }
+
+  /* Header */
+  .header {
+    background-image: url('./header-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+
+  /* About */
+  .about h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+
+  .about p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Portfolio */
+  .portfolio h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+
+  .portfolio .card {
+    background-color: #333;
+    border: none;
+    border-radius: 0;
+  }
+
+  .portfolio .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .portfolio .card-body {
+    padding: 1.25rem;
+  }
+
+  .portfolio .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: #fff;
+  }
+
+  .portfolio .card-text {
+    font-size: 1.2rem;
+    color: #fff;
+  }
+
+  /* Graphic Design */
+  .graphic-design h2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+
+  .graphic-design p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Footer */
+  .footer {
+    background-color: #333;
+    padding: 2.5rem 0;
+  }
+
+  .footer h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+
+  .footer p {
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .footer form {
+    background-color: #444;
+    padding: 1.5rem;
+    border-radius: 0.25rem;
+  }
+  
